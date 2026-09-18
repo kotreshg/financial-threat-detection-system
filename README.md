@@ -114,8 +114,6 @@ Prediction
 Risk score
 Threat reason
 
-```text
-
 <img width="2926" height="1326" alt="WhatsApp Image 2026-09-18 at 15 41 35" src="https://github.com/user-attachments/assets/1b917dc2-94d2-45de-9081-de2b67ffe5a6" />
 
 <img width="2912" height="1456" alt="WhatsApp Image 2026-09-18 at 15 41 15" src="https://github.com/user-attachments/assets/ac784365-e59a-427a-ad77-b18f2bca0642" />
