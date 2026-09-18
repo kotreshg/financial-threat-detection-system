@@ -115,8 +115,13 @@ Risk score
 Threat reason
 
 ```text
+
 <img width="2926" height="1326" alt="WhatsApp Image 2026-09-18 at 15 41 35" src="https://github.com/user-attachments/assets/1b917dc2-94d2-45de-9081-de2b67ffe5a6" />
+
 <img width="2912" height="1456" alt="WhatsApp Image 2026-09-18 at 15 41 15" src="https://github.com/user-attachments/assets/ac784365-e59a-427a-ad77-b18f2bca0642" />
+
 <img width="2934" height="1196" alt="WhatsApp Image 2026-09-18 at 15 40 55" src="https://github.com/user-attachments/assets/26da43b3-8b9f-4143-b598-a6f712765b2e" />
+
 <img width="2928" height="1422" alt="WhatsApp Image 2026-09-18 at 15 40 27" src="https://github.com/user-attachments/assets/6950216a-e55f-42a8-a19c-d483e22d9569" />
+
 <img width="1280" height="682" alt="image" src="https://github.com/user-attachments/assets/c8b3af12-003a-434d-b399-93f28afbd6c1" />
